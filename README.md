@@ -2,7 +2,7 @@
 Hi, I'm Gustavo Monnerat!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<img align="left" src="https://i.redd.it/iidrmrfz1vl21.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="350" />
+<img align="left" src="https://i.redd.it/iidrmrfz1vl21.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="360" />
 
 ```
 I-am-gustavommcv@GitHub
