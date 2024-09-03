@@ -9,7 +9,7 @@ I-am-gustavommcv@GitHub
 -------------------------
 💻 Self-taught Full Stack Developer in training
 🎓 Degree in Systems Analysis
-📝 Passionate about Web Development, emulation, gaming, and desktop applications
+📝 Passionate about Web Development, emulation and gaming
 🌱 Currently enhancing my Web Development skills
 🌟 Key languages: C#, JavaScript
 🚩 Focused on Full Stack Web Development
