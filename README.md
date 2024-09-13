@@ -31,7 +31,6 @@ I-am-gustavommcv@GitHub
     <a href="https://dotnet.microsoft.com/"><img style="border-radius: 2px" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
     <a href="https://spring.io/"><img style="border-radius: 2px" alt="SPRING" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a href="https://pages.github.com/"><img style="border-radius: 2px" alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]"></a>
-    <a href="https://www.mysql.com/"><img style="border-radius: 2px" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://git-scm.com/"><img style="border-radius: 2px" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://www.postman.com/"><img style="border-radius: 2px" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img style="border-radius: 2px" alt="Visual Studio Code" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
