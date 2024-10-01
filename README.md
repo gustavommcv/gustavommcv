@@ -36,7 +36,7 @@ I-am-gustavommcv@GitHub
     <a href="https://code.visualstudio.com/"><img style="border-radius: 2px" alt="Visual Studio Code" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-## Socials
+## 🌐 Socials
 
 
 <p>
