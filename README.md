@@ -6,7 +6,6 @@ kind: Human
 metadata:
   name: Gustavo Monnerat
 spec:
-  purpose: Build modern, scalable, and efficient software solutions
   education:
     - 
       type: Postgraduate in Software Architecture
