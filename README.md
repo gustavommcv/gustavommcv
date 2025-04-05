@@ -28,6 +28,7 @@ spec:
     - Code quality and best practices
     - Robust and scalable architecture
   passions:
+    - Linux (Arch btw)
     - Programming
     - Emulation and gaming
     - Books
