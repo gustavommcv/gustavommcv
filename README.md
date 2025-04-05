@@ -20,7 +20,7 @@ spec:
       - React
       - SQL
       - MongoDB
-      - C#
+      - Asp.net
       - React.js
       - TypeScript
   focus:
