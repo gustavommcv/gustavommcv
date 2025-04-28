@@ -27,8 +27,7 @@ spec:
       - TypeScript
   focus:
     - Modern application development,
-    - Code quality and best practices,
-    - Robust and scalable architecture
+    - Code quality and best practices
   passions:
     - Programming,
     - Emulation and gaming,
