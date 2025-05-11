@@ -16,15 +16,15 @@ spec:
       status: Completed
     }
   work:
-    type: Full Stack Web Developer,
+    type: Software Developer,
     technologies:
       - Node.js,
       - React,
-      - SQL,
-      - MongoDB,
+      - TypeScript,
+      - Shell,
       - Asp.net,
-      - React.js,
-      - TypeScript
+      - SQL,
+      - MongoDB
   focus:
     - Modern application development,
     - Code quality and best practices
