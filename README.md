@@ -17,14 +17,6 @@ spec:
     }
   work:
     type: Software Developer,
-    technologies:
-      - Node.js,
-      - React,
-      - TypeScript,
-      - Shell,
-      - Asp.net,
-      - SQL,
-      - MongoDB
   focus:
     - Modern application development,
     - Code quality and best practices
