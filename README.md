@@ -27,7 +27,7 @@ Right now, I'm diving into:
 **Motherboard:** MSI MAG B550  
 **Graphics Card:** Asus ROG Strix 3060 TI GDDR6  
 **Processor:** Ryzen 5 5600X  
-**RAM:** 32GB (2x16GB) G.Skill DDR4 3600MHz CL16
+**RAM:** 32GB (2x16GB) G.Skill DDR4 3600MHz CL16  
 **Storage:**  
 - SSD: 1TB Kingston Fury PCIe 4.0  
 - SSD: 512GB Lexar NVMe PCIe 3.0  
@@ -43,7 +43,7 @@ Right now, I'm diving into:
 **Model:** Lenovo S145 — not fancy, but gets the job done  
 **Graphics:** Vega 8  
 **Processor:** Ryzen 5 3500U  
-**RAM:** 12GB (1x8GB + 1x4GB) at 2400MHz — asymmetrical, just like my sleep schedule  
+**RAM:** 12GB (1x8GB + 1x4GB) at 2400MHz  
 **Storage:**  
 - SSD: 256GB NVMe PCIe 3.0  
 - SSD: 120GB Kingston SATA
