@@ -19,4 +19,6 @@ I'm diving into:
 - **Shell scripting** — automating all the things
 - **JavaScript, HTML & CSS** — because pure code beats bloat any day
 
+---
+
 ![gif](./assets/images/tux.gif)
