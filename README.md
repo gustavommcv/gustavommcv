@@ -9,7 +9,7 @@ Currently focusing on deepening my understanding of software development through
 Most of my repos are **private** because progress is... well, progress.
 Once they evolve from "just messing around" to "actually works", I'll share them here. Until then, they're safely marinating in my local repos.
 
-## Current Focus
+## Currently Studying 
 
 - **Go** — performance and simplicity
 - **Linux** — mastering the OS that runs the world
