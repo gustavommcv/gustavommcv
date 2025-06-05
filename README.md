@@ -1,21 +1,22 @@
 # Hello, World! 👋
 
-### Hey! I'm Gustavo Monnerat, welcome to my GitHub profile.
+### Hey! I'm Gustavo Monnerat. Welcome to my GitHub profile.
 
 I'm passionate about programming and constantly learning new things.
 
-Currently focusing on deepening my understanding of software development through hands-on projects.  
+Currently, I’m improving my software development skills by studying documentation and working on practical projects.
 
-Most of my repos are **private** because progress is... well, progress.
-Once they evolve from "just messing around" to "actually works", I'll share them here. Until then, they're safely marinating in my local repos.
+Most of my repos are **private** because progress is... well, progress.  
+Once they evolve from _"just messing around"_ to _"actually working"_, I’ll share them here. Until then, they’re safely marinating in my local repos.
 
-## Currently Studying 
+## Currently Studying
 
-- **Go** — performance and simplicity
-- **Linux** — mastering the OS that runs the world
-- **Shell scripting** — automating everything
-- **JavaScript, HTML & CSS** — pure code over bloat
+- **Go** — Performance and simplicity
+- **Linux** — Mastering the OS that runs the world
+- **Shell Scripting** — Automating all the things
+- **JavaScript, HTML & CSS** — Pure code over bloat
 
 ---
 
-![gif](./assets/images/tux.gif)
+![tux](./assets/images/tux.gif)
+![gopher](./assets/images/gopher.gif)
