@@ -1,6 +1,6 @@
-# Hello, World! 👋
+# 👋 Hello, World, I'm Gustavo Monnerat! 
 
-### Hey! I'm Gustavo Monnerat. Welcome to my GitHub profile.
+### Welcome to my GitHub profile.
 
 I'm passionate about programming and constantly learning new things.
 
@@ -11,10 +11,10 @@ Once they evolve from _"just messing around"_ to _"actually working"_, I’ll sh
 
 ## Currently Studying
 
-- **Go** — Performance and simplicity
-- **Linux** — Mastering the OS that runs the world
-- **Shell Scripting** — Automating all the things
-- **JavaScript, HTML & CSS** — Pure code over bloat
+- **Go** — For its performance, elegant simplicity, and because gophers are adorable
+- **Linux** — To truly understand the OS that powers (almost) everything
+- **Shell Scripting** — Because automating repetitive tasks feels like a superpower
+- **JavaScript, HTML & CSS** — Building things from scratch without unnecessary frameworks
 
 ---
 
