@@ -9,4 +9,3 @@ Once they evolve from _"just messing around"_ to _"actually working"_, I’ll sh
 ---
 
 ![tux](./assets/images/tux.gif)
-![gopher](./assets/images/gopher.gif)
