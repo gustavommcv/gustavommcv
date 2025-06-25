@@ -1,7 +1,9 @@
 # 👋 Hello, World, I'm Gustavo Monnerat! 
 
 ### About me
-I'm a software developer and a postgraduate student in Software Architecture. Currently, I’m diving deep into Go (Golang) and absolutely loving the journey! While I’m still sharpening my skills, I’m already working on full-stack freelance projects using technologies like Gin, Angular, React, and Express.js. My focus is on continuous growth — contributing to open source and private projects, and building meaningful solutions.
+I am a Software Developer and a postgraduate student in Software Architecture, currently focusing on Go (Golang) in my studies.
+Currently, I work as a full-stack freelancer, developing projects with technologies such as Gin, Express.js (Node), React, Angular, Docker, and AWS.
+I am always eager to learn more and contribute to relevant projects, whether in open-source or private solutions, with the goal of building well-structured and efficient systems.
 
 Most of my repos are **private** because progress is... well, progress.  
 Once they evolve from _"just messing around"_ to _"actually working"_, I’ll share them here. Until then, they’re safely marinating in my local repos.
