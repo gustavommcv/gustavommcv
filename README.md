@@ -1,7 +1,7 @@
 # 👋 Hello, World, I'm Gustavo Monnerat! 
 
 ### About me
-My name is Gustavo Monnerat, I'm a software developer and a postgraduate student in Software Architecture.
+I'm a software developer and a postgraduate student in Software Architecture.
 
 I work as a full-stack freelancer, developing projects with technologies such as Gin, Express.js (Node), React, Angular, Docker and AWS.
 
