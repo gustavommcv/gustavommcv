@@ -9,4 +9,4 @@ Once they evolve from _"just messing around"_ to _"actually working"_, I’ll sh
 
 ---
 
-![tux](./assets/images/tux.gif)
+![linux-tux](https://github.com/user-attachments/assets/6362b267-4c91-4200-a590-dfaf8abb7eae)
