@@ -3,7 +3,7 @@
 ### About me
 I'm a software developer and a postgraduate student in Software Architecture.
 
-I work as a full-stack freelancer, developing projects with technologies such as Gin, Express.js (Node), React, Angular, Docker and AWS.
+I work as a full-stack freelancer, developing projects with technologies such as Golang, Express.js (Node), React, Angular, Docker and AWS.
 
 Most of my repos are **private** because progress is... well, progress.  
 Once they evolve from _"just messing around"_ to _"actually working"_, I’ll share them here. Until then, they’re safely marinating in my local repos.
